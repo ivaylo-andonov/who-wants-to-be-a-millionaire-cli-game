@@ -1,0 +1,10 @@
+/node_modules/
+/__tests__/
+/.eslintrc
+/example/
+
+Makefile
+
+.gitignore
+.editorconfig
+.npmrc

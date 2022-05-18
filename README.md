@@ -2,7 +2,7 @@
 
 ##  Interactive CLI game
 
-Powered by NPM, Nodejs and cool npm libs.
+Powered by NPM, Nodejs and other npm libs.
 
 ## Usage CLI
 
